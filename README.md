@@ -1,12 +1,14 @@
 ### Hi there 👋
-
+My name is Amar
+- 🔭 I’m currently working on Google's Cybersecurity Certificate
+- 🌱 I’m currently learning Python using the resource Automate the boring stuff with Python
 <!--
 **aellahi22/aellahi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+-  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
