@@ -2,6 +2,7 @@
 My name is Amar
 - 🔭 I’m currently working on Google's Cybersecurity Certificate
 - 🌱 I’m currently learning Python using the resource Automate the boring stuff with Python
+- 🛁 I am using the Emoji Cheat sheet, for this bullet point. 🛁
 <!--
 **aellahi22/aellahi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
